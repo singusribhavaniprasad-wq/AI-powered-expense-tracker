@@ -1,0 +1,6 @@
+{
+  "name": "AI Expense Tracker",
+  "description": "A production-grade, AI-powered Expense Tracker application with high-fidelity invoice and receipt processing, real-time analytics dashboard, and AI-driven portfolio insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
